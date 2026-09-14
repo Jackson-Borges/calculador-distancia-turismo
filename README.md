@@ -40,7 +40,7 @@ Ao optar por não calcular outro transporte, o sistema finaliza o atendimento:
 1. Certifique-se de ter o **SDK do .NET Core / .NET Preview** instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Jackson-Borges
    ```
 3. Navegue até a pasta do projeto:
    ```bash

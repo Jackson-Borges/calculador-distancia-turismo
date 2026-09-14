@@ -1,0 +1,15 @@
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.AssemblyInfoInputs.cache
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.AssemblyInfo.cs
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.csproj.CoreCompileInputs.cache
+F:\Projetos Back-End\Marcador de Viagem\bin\Debug\net10.0\Marcador de Viagem.exe
+F:\Projetos Back-End\Marcador de Viagem\bin\Debug\net10.0\Marcador de Viagem.deps.json
+F:\Projetos Back-End\Marcador de Viagem\bin\Debug\net10.0\Marcador de Viagem.runtimeconfig.json
+F:\Projetos Back-End\Marcador de Viagem\bin\Debug\net10.0\Marcador de Viagem.dll
+F:\Projetos Back-End\Marcador de Viagem\bin\Debug\net10.0\Marcador de Viagem.pdb
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.dll
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\refint\Marcador de Viagem.dll
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.pdb
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.genruntimeconfig.cache
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\ref\Marcador de Viagem.dll
+F:\Projetos Back-End\Marcador de Viagem\obj\Debug\net10.0\Marcador de Viagem.sourcelink.json
